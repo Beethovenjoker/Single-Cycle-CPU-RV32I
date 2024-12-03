@@ -10,7 +10,7 @@
                  |___/                         |___/                                             
 ```
 ## Introduction
-2024年成大電機計算機組織助教，實作一個簡單的Single Cycle CPU，可以支援RV32I指令。
+2024年成大電機計算機組織助教，實作一個簡單的Single-Cycle-CPU，可以支援RV32I指令。
 ## CPU Block Diagram
 ![螢幕擷取畫面 2024-12-03 201836](https://github.com/user-attachments/assets/e13a081d-c61d-4d11-a335-bd8f0dc90f1a)
 ## Modules
